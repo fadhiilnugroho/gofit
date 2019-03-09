@@ -1,0 +1,76 @@
+.kelas-navbar {
+    background-color: #36802d;
+    color: #FFF;
+}
+
+.navbar {
+    font-family: 'Oswald', sans-serif;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: left;
+}
+
+.navbar>a {
+    color: #FFF;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+}
+
+.navbar>div>ul>li>a {
+    color: #FFF;
+    font-size: 18px;
+    margin-bottom: 0;
+}
+
+.navbar>div>ul>li>a:hover {
+    text-decoration: underline;
+    transition: 0.2s;
+}
+
+.btn-cari {
+    color: #FFF;
+    border-color: white;
+}
+
+.reg-btn>.login {
+    color: #FFF;
+    padding: 2px;
+}
+
+.login:hover {
+    text-decoration: none;
+}
+
+.reg-btn>.reg {
+    color: #36802d;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 5px;
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+.reg-btn>.reg:hover {
+    text-decoration: none;
+    background-color: #D3D3D3;
+    transition: 0.15s;
+}
+
+.carousel-item {
+    height: 90%;
+}
+
+.carousel-item > img {
+    height: 10%;
+}
+
+footer{
+    background-color: #222222;
+}
