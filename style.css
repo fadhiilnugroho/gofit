@@ -1,3 +1,10 @@
+.carousel .carousel-item {
+    height: 100%;
+}
+.carousel-item img{
+    height: 100%;
+}
+
 .kelas-navbar {
     background-color: #36802d;
     color: #FFF;
@@ -67,14 +74,6 @@ ul {
     transition: 0.15s;
 }
 
-.carousel-item {
-    height: 90%;
-}
-
-.carousel-item > img {
-    height: 10%;
-}
-
 footer{
     background-color: #222222;
 }
@@ -91,7 +90,4 @@ footer > div > a:hover {
     width: 30px;
 }
 
-.carousel > div > div > img {
-    height: 70%;
-    width: 100px;
-}
+
