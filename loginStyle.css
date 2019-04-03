@@ -56,9 +56,6 @@
     color: #4CAF50;
     text-decoration: none;
   }
-  .form .register-form {
-    display: none;
-  }
   .container {
     position: relative;
     z-index: 1;
@@ -83,7 +80,7 @@
   }
   .container .info span {
     color: #4d4d4d;
-    font-size: 12px;
+    font-size: 14px;
   }
   .container .info span a {
     color: #000000;
@@ -98,7 +95,7 @@
     background: -moz-linear-gradient(right, #36802d, #8DC26F);
     background: -o-linear-gradient(right, #36802d, #8DC26F);
     background: linear-gradient(to left, #36802d, #8DC26F);
-    font-family: "Roboto", sans-serif;
+    font-family: 'Oswald', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;      
   }
